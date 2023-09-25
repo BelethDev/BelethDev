@@ -1,14 +1,7 @@
 <div align="center">
   <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F8d5b27e6d38887021bfd048f233a84a7%2Ftenor.gif&f=1&nofb=1&ipt=1588e89d24eb08f9736068e4e1d1e1f05434559bbe84e6fe547b916a7d1763e6&ipo=images"  />
 </div>
-
 ###
-
-<div align="center">
-  <a href="+14092416330" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
-  </a>
-</div>
 
 ###
 
